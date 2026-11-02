@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+WC01_CAD_Output/
+WC01_CAD_Design_Package.zip
+/wall_climbing_robot.mp4
+/wall_climbing_robot_3d.mp4
+/wall_climbing_robot_3d_concept.stl
